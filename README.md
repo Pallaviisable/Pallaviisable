@@ -1,46 +1,99 @@
-<h1 align="center">Hi, I'm Pallavi Sable</h1>
-<h3 align="center">Hi, I'm Pallavi Sable, a software developer learning programming, web development, and logic building in C, C++, and Java.</h3>
+# Hi, I'm Pallavi Sable 👋
+
+**Java Backend Developer** | Systems Programmer | B.E. Electronics & Computer Engineering — CGPA 9.1  
+📍 Pune, India &nbsp;|&nbsp; 📧 pallaviisable@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-sable) 
 
 ---
 
-### 🔭 I’m currently learning
-- **Programming, Web Development, Logic Building** in C, C++, Java
+## About Me
 
-### 📫 How to reach me
-- Email: [pallaviisable@gmail.com](mailto:pallaviisable@gmail.com)
-- LinkedIn: [Pallavi Sable](https://www.linkedin.com/in/pallavi-sable-10598a343)
+I'm a backend-focused developer with a strong foundation in **Java, Spring Boot, C, and C++** — and a genuine interest in how things work at the system level.
 
----
+My projects span across backend web development, Linux systems programming, and data structures — built from scratch, documented thoroughly, and structured for real-world use. I enjoy working close to the metal: reading `/proc` filesystems, managing memory manually, and understanding what the OS is doing underneath the application layer.
 
-### 🌐 Connect with me
-<p align="center">
-  <a href="https://github.com/pallaviisable" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/pallavi-sable-10598a343" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+- 🎓 B.E. Electronics & Computer Engineering, Savitribai Phule Pune University — **CGPA 9.1**
+- 🏆 IBM SkillsBuild — Enterprise Data Science & Enterprise Grade AI
+- 🏛️ NPTEL — Entrepreneurship & IP Strategy **(Elite)**
+- 🔭 Currently uploading and documenting all projects with clean structure and recruiter-friendly READMEs
+- 🤝 IEEE Membership Head — PES Modern College of Engineering
 
 ---
 
-### 🛠 Languages & Tools
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-</p>
+## 🛠 Tech Stack
+
+**Languages**
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+
+**Backend & Frameworks**
+
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)]()
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)]()
+[![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)]()
+
+**Databases**
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)]()
+
+**Systems & Tools**
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+
+**Machine Learning**
+
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallaviisable&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## 🚀 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallaviisable&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+| Project | Stack | What it does |
+|---|---|---|
+| [Generalised Data Structure Library](https://github.com/Pallaviisable/Genralised-Data-Structure-Library) | C++ | Generic template library — Linked Lists, BST, Stack, Queue, Sorting. Built from scratch without STL. |
+| [Process Memory Inspector](https://github.com/Pallaviisable/Process-Memory-Inspector) | C, Linux | Reads `/proc` filesystem to map live process memory — heap, stack, text, data segments in real time. |
+| [Customized Virtual File System](https://github.com/Pallaviisable/-Customized-Virtual-File-System) | C, OS Concepts | UNIX-like virtual file system with inode structure supporting create, read, write, delete. |
+| [EduTrack](https://github.com/Pallaviisable/Edutrack) | Java, Spring Boot, MongoDB | RESTful backend for student and batch management with full CRUD operations. |
+| [Automated Platform Surveillance](https://github.com/Pallaviisable/Automated-Platform-Surveillance-System) | Python, Linux | Monitoring tool logging CPU, RAM, disk usage and process stats. |
+| [Automated Data Shield](https://github.com/Pallaviisable/Automated-Data-Shield) | Python | Incremental backup system using MD5 hash comparison and ZIP archiving. |
+| [File Packer & Unpacker](https://github.com/Pallaviisable/File-Packer-Unpacker) | Java | File archiving utility using Java I/O streams and custom packing logic. |
+
+---
+
+## 📊 GitHub Stats
+
+![Pallavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallaviisable&show_icons=true&locale=en&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pallaviisable&show_icons=true&locale=en&layout=compact&hide_border=true)
+
+---
+
+## 📜 Certifications
+
+- 🏅 **IBM SkillsBuild** — Enterprise Data Science
+- 🏅 **IBM SkillsBuild** — Enterprise Grade AI
+- 🏅 **NPTEL** — Entrepreneurship & IP Strategy *(Elite)*
+- 🏅 **Spoken Tutorial** — Java Programming & PostgreSQL
+- 🏅 **Microsoft Learn** — Data Analysis using R
+
+---
+
+## 🤝 Leadership
+
+- **IEEE Membership Head** — PES Modern College of Engineering
+- **Coordinator** — Spandan 2023 & 2025
+- **Marketing Member** — ECESA Club
+- **Volunteer** — National Service Scheme (NSS)
+
+---
+
+*Always building. Always learning.*
