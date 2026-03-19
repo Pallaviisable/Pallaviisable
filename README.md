@@ -1,6 +1,6 @@
 # Hi, I'm Pallavi Sable 👋
 
-**Java Backend Developer** | Systems Programmer | B.E. Electronics & Computer Engineering — CGPA 9.1  
+**Java Backend Developer** | Full-Stack (React) | Systems Programmer | B.E. Electronics & Computer Engineering — CGPA 9.1  
 📍 Pune, India &nbsp;|&nbsp; 📧 pallaviisable@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-sable) 
 
 ---
@@ -28,6 +28,12 @@ My projects span across backend web development, Linux systems programming, and 
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+
+**Frontend**
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
 **Backend & Frameworks**
 
@@ -63,7 +69,7 @@ My projects span across backend web development, Linux systems programming, and 
 | [Generalised Data Structure Library](https://github.com/Pallaviisable/Genralised-Data-Structure-Library) | C++ | Generic template library — Linked Lists, BST, Stack, Queue, Sorting. Built from scratch without STL. |
 | [Process Memory Inspector](https://github.com/Pallaviisable/Process-Memory-Inspector) | C, Linux | Reads `/proc` filesystem to map live process memory — heap, stack, text, data segments in real time. |
 | [Customized Virtual File System](https://github.com/Pallaviisable/-Customized-Virtual-File-System) | C, OS Concepts | UNIX-like virtual file system with inode structure supporting create, read, write, delete. |
-| [EduTrack](https://github.com/Pallaviisable/Edutrack) | Java, Spring Boot, MongoDB | RESTful backend for student and batch management with full CRUD operations. |
+| [EduTrack](https://github.com/Pallaviisable/Edutrack) | Java, Spring Boot, MongoDB, React | Full-stack student & batch management system — REST API backend with React frontend. |
 | [Automated Platform Surveillance](https://github.com/Pallaviisable/Automated-Platform-Surveillance-System) | Python, Linux | Monitoring tool logging CPU, RAM, disk usage and process stats. |
 | [Automated Data Shield](https://github.com/Pallaviisable/Automated-Data-Shield) | Python | Incremental backup system using MD5 hash comparison and ZIP archiving. |
 | [File Packer & Unpacker](https://github.com/Pallaviisable/File-Packer-Unpacker) | Java | File archiving utility using Java I/O streams and custom packing logic. |
