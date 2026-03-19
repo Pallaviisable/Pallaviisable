@@ -1,7 +1,7 @@
 # Hi, I'm Pallavi Sable 👋
 
 **Java Backend Developer** | Full-Stack (React) | Systems Programmer | B.E. Electronics & Computer Engineering — CGPA 9.1  
-📍 Pune, India &nbsp;|&nbsp; 📧 pallaviisable@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-sable) 
+📍 Pune, India &nbsp;|&nbsp; 📧 pallaviisable@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/pallavi-sable-10598a343) 
 
 ---
 
