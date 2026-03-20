@@ -67,7 +67,7 @@ My projects span across backend web development, Linux systems programming, and 
 | Project | Stack | What it does |
 |---|---|---|
 | [Generalised Data Structure Library](https://github.com/Pallaviisable/Genralised-Data-Structure-Library) | C++ | Generic template library — Linked Lists, BST, Stack, Queue, Sorting. Built from scratch without STL. |
-| [Process Memory Inspector](https://github.com/Pallaviisable/Process-Memory-Inspector) | C, Linux | Reads `/proc` filesystem to map live process memory — heap, stack, text, data segments in real time. |
+| [Process Memory Inspector](https://github.com/Pallaviisable/Process-Memory-Inspector) | C++, Linux | Reads `/proc` filesystem to map live process memory — heap, stack, text, data segments in real time. |
 | [Customized Virtual File System](https://github.com/Pallaviisable/-Customized-Virtual-File-System) | C, OS Concepts | UNIX-like virtual file system with inode structure supporting create, read, write, delete. |
 | [EduTrack](https://github.com/Pallaviisable/Edutrack) | Java, Spring Boot, MongoDB, React | Full-stack student & batch management system — REST API backend with React frontend. |
 | [Automated Platform Surveillance](https://github.com/Pallaviisable/Automated-Platform-Surveillance-System) | Python, Linux | Monitoring tool logging CPU, RAM, disk usage and process stats. |
