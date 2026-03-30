@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a backend-focused developer with a strong foundation in **Java, Spring Boot, C, and C++** — and a genuine interest in how things work at the system level.
+I'm a backend-focused developer with a strong foundation in **Java, Spring Boot, Python ,C, and C++** — and a genuine interest in how things work at the system level.
 
 My projects span across backend web development, Linux systems programming, and data structures — built from scratch, documented thoroughly, and structured for real-world use. I enjoy working close to the metal: reading `/proc` filesystems, managing memory manually, and understanding what the OS is doing underneath the application layer.
 
